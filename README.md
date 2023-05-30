@@ -6,7 +6,7 @@ I'm a high school student with a passion for web programming and a strong intere
 
 ## What I'm up to
 -  I'm currently learning React and sharpening my skills in web programming.
--  I'm interested in frontend and backend development, as well as mobile app development.
+-  I'm interested in frontend development, as well as mobile app development.
 -  I'm looking to collaborate on exciting projects that challenge and inspire me to grow as a developer.
 
 ## Connect with Me
